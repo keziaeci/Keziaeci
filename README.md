@@ -14,9 +14,9 @@ I'm a tech-curious student always eager to learn more about the latest developme
 ![](https://github-readme-stats.vercel.app/api?username=keziaeci&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keziaeci&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keziaeci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keziaeci&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=keziaeci&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=reginaeci)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
