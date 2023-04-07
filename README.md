@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kezia Regina Putri</h1>
 <h3 align="center">I'm a tech-curious student always eager to learn more about the latest developments in the industry</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keziaci" alt="keziaci" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **keziaeci2806@gmail.com**
